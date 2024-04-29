@@ -391,6 +391,8 @@ transition: background-color 1050ms;
     min-height: 100%;
     z-index: -1;
 }
+@media only screen and (max-width:768px) {
+}
 
 
 
